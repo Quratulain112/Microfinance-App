@@ -45,5 +45,6 @@
 
 ---
 
-### 👨‍💻 Developed By
-Naveed Ahmed MERN Stack Developer
+### 👨‍💻 Project Attribution
+Originally developed by Naveed Ahmed MERN Stack Developer
+Extended by Qurat-ul-Ain Software Developer
